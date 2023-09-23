@@ -7,5 +7,6 @@ int main()
     printf("second\n");
     printf("dev branch\n");
 	printf("into releas");
+    printf("sami");
     return 0;
 }
